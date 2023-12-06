@@ -11,3 +11,4 @@ Lab 5, part 1 was a favorite of mine. It talked about calculating the area of a 
 
 Lab 12, part 2 was a favorite of mine as well. Putting our knowledge together to work with images, conditions, functions and loops to create an image is what we did in Lab 12. This lab was pretty tough but also benefited us a lot because of the challenge and helping us to be more advanced.
 
+
